@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The soldiers catechisme, composed for the King's Armie; wherein his 1 cause is justified, and his enemies condemned. 2 Soldier is instructed, and the rebell reclaimed. Written for the incouragement and direction of all that have taken up armes in this cause of God, his Church, and his annointed; especially the common soldiers. By T.S.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94138</idno>
+            <idno type="STC">Wing S6224</idno>
+            <idno type="STC">Thomason E1185_5</idno>
+            <idno type="STC">ESTC R203688</idno>
+            <idno type="EEBO-CITATION">99863549</idno>
+            <idno type="PROQUEST">99863549</idno>
+            <idno type="VID">115753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115753)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1185[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The soldiers catechisme, composed for the King's Armie; wherein his 1 cause is justified, and his enemies condemned. 2 Soldier is instructed, and the rebell reclaimed. Written for the incouragement and direction of all that have taken up armes in this cause of God, his Church, and his annointed; especially the common soldiers. By T.S.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>[6], 15, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: T. Svvadlin.</note>
+                  <note>Written in response to: Ram, Robert.  The souldiers catechisme: composed for the Parliaments Army.</note>
+                  <note>The words "1 cause is justified, .. reclaimed." are bracketed together on title page.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Running title reads: The souldiers catechisme.</note>
+                  <note>Annotation on Thomason copy: "July 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ram, Robert, d. 1657. --  Souldiers catechisme: composed for the Parliaments Army.</term>
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115753:1" rendition="simple:additions"/>
+            <p>THE SOLDIERS CATECHISME, <hi>Compoſed for</hi> The KING'S Armie; <hi>Wherein</hi> His
+<list>
+                  <item>1 Cauſe is juſtified, and his ene<g ref="char:EOLhyphen"/>mies condemned.</item>
+                  <item>2 Soldier is inſtructed, and the Rebell reclaimed.</item>
+               </list>
+            </p>
+            <p>Written for the incouragement and dire<g ref="char:EOLhyphen"/>ction of all that have taken up Armes in this Cauſe of God, his Church, and his Annointed; eſpecially the Com<g ref="char:EOLhyphen"/>mon Soldiers.</p>
+            <p>
+               <hi>By</hi> T. S.</p>
+            <q>
+               <bibl>
+                  <hi>DEUT. 20.1.</hi>
+               </bibl>
+               <p>When thou goeſt out to battell againſt thine enemies, and ſeeſt horſes, and charets, and a people more then thou, be not afraid of them; For the Lord thy God is with thee.</p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Henry Hall.</hi> 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115753:2"/>
+            <pb facs="tcp:115753:2"/>
+            <head>TO MY HONOVR<g ref="char:EOLhyphen"/>ed Freind NOAH BRIDGES Eſquire, Clarke to the Honourable Houſe of Commons of the Parliament of ENGLAND.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>unii 18. 1645.</hi> I received from you a Thing called, <hi>The Souldiers Catechiſme, compoſed for the Parlia<g ref="char:EOLhyphen"/>ments Army, written by</hi> R. Ram, <hi>Miniſter of</hi> Spalding <hi>in</hi> Lincolne<g ref="char:EOLhyphen"/>ſhire; you deſired me to anſwer it, becauſe it had done ſome Diſſervice to the King, as is ſuppoſed, in miſleading ſome ſimple ſoules.</p>
+            <p>I have read it and beleive the ſuppoſition; and for preſent anſwer returne you the ſame Title, with this alteration onely, <hi>Compoſed for the Kings Army;</hi> certainely perſwading my ſelfe that this truth (and it is nothing elſe but truthy may reduce thoſe whom his Falſe<g ref="char:EOLhyphen"/>hood
+<pb facs="tcp:115753:3"/>hath ſeduced; yet promiſing you, if ſo you will have it, ſpeedily to anſwer his <hi>verbatim,</hi> and largely, which is here done onely in ſenſe and breifely; yet fully I imagine for the ſer<g ref="char:EOLhyphen"/>vice aboveſaid, namely, To reclaime my Coun<g ref="char:EOLhyphen"/>trymen to their ancient obedience, which is your and all good mens deſire, and amongſt them,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>of Your Freind and Servant, <hi>T. SVVADLIN.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Junii 19. 1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115753:3"/>
+            <head>THE SOVLDIERS CA<g ref="char:EOLhyphen"/>techiſme Compoſed for the Kings Army.</head>
+            <p>Qu: <hi>
+                  <seg rend="decorInit">S</seg>IR, I pray tell me; is warre lawfull? and may I lawfully be a Souldier?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, Warre is law<g ref="char:EOLhyphen"/>full; For God allowes it; <hi>Deut.</hi> 23.9. and He is ſtiled a man of warre: <hi>Exod.</hi> 15.3. And you may lawfully be a ſouldier: For Gods choiceſt Servants, <hi>Abraham, Ioſhua, Sampſon, Gideon, David,</hi> and many more were Souldi<g ref="char:EOLhyphen"/>ers: And you may ſafely follow their exam<g ref="char:EOLhyphen"/>ple, ſo that you have a lawfull calling to that Profeſſion.</p>
+            <p>Qu. <hi>How may I be aſſured that I am lawful<g ref="char:EOLhyphen"/>ly called to this profeſſion? and conſequently may with a ſafe conſcience take up Armes?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This you may know both Negative<g ref="char:EOLhyphen"/>ly and Affirmatively.</p>
+            <p>Qu. <hi>How Negatively?</hi>
+            </p>
+            <pb n="2" facs="tcp:115753:4"/>
+            <p>
+               <hi>Anſ.</hi> By three Notes; 1. If you thruſt your ſelfe into this calling, either without or againſt that education your Parents have given you, either without or againſt their allowance: For ſuch Raſhneſſe <hi>Jacob</hi> chid his two ſonnes, <hi>Simeon and Levi, Gen.</hi> 34.30. and blamed them, <hi>Gen.</hi> 49.7. If your Parents diſallow and forbid you this calling, you are not lawfully called unto it.</p>
+            <p n="2">2. If you enter into this Profeſſion either without or againſt that Supreame Authority under which you live. For this fault were the children of <hi>Iſraell</hi> deſtroyed by the ſword, be<g ref="char:EOLhyphen"/>cauſe they preſumed to go up againſt the <hi>Ama<g ref="char:EOLhyphen"/>lekites</hi> when <hi>Moſes</hi> their King forbad them. <hi>Numb.</hi> 14.42. If the King or thoſe Magiſtrates that are appointed by Him doe forbid you, you are not lawfully called unto it.</p>
+            <p n="3">3. If you take up Armes for your owne pri<g ref="char:EOLhyphen"/>vate ends, either for Coveteouſneſſe and to grow Rich thereby, or for Malice, and to be Revenged thereby, or for Senſuality and to de<g ref="char:EOLhyphen"/>light therein; you are not lawfully called un<g ref="char:EOLhyphen"/>to it; For ſaies the Pſalmiſt, <hi>Scatter thou the People that delight in Warre: Pſal.</hi> 68.30.</p>
+            <p>Qu. <hi>What then thinke you of thoſe that now take up Armes againſt the King?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Why I thinke, yes I know they are
+<pb n="3" facs="tcp:115753:4"/>Rebels; and I feare (without Gods great mer<g ref="char:EOLhyphen"/>cy and their owne Repentance) they ſhall be tormented with the Devill and his Angels.</p>
+            <p>Q. <hi>God forbid Sir; pray why cenſure you them ſo hardly?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Nay God will not forbid it; for he hath forbidden all men to Rebell; and hath threat<g ref="char:EOLhyphen"/>ned them that doe Rebell with Damnation, <hi>Ro.</hi> 13.2. Nor is there one example in the whole Bible of any one Rebell that ever died in the outward poſſibility of Salvation.</p>
+            <p>Qu. <hi>Sir, may not Subjects reſiſt their King in any caſe, though He be an Hereticke, an Apo<g ref="char:EOLhyphen"/>ſtate, or a Tyrant?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, Subjects may not reſiſt in any caſe: this is the doctrine of Jeſuites and Puritans, but aſſure your ſelfe there is neither Precept nor Practiſe for it in the holy word of God; nor did the Primitive Chriſtians ever dreame of it.</p>
+            <p>Qu. <hi>But if the King be ſuch a one, and in<g ref="char:EOLhyphen"/>tends the Deſtruction of His People, what reme<g ref="char:EOLhyphen"/>dy have the Subjects?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Prayers and Teares: 1 <hi>Sam.</hi> 8.10, 18. let the King be never ſo bad they may not uſe other weapons againſt their King then Prayers and Teares.</p>
+            <p>Qu. <hi>Sir, It may be you ſpeake of an Abſolute
+<pb n="4" facs="tcp:115753:5"/>Monarch; but I ſpeake of the King of England; who, as ſome Divines and Lawyers have told me, is but a mixt Monarch, and may be curbed and reſiſted.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Did they tell you He is a mixt Mo<g ref="char:EOLhyphen"/>narch? are you ſure on't? then they told you a Bull; and by their language you may perceive they are but boyes in Divinity, and but Smat<g ref="char:EOLhyphen"/>terers in law; for the Kings of <hi>England</hi> are Ab<g ref="char:EOLhyphen"/>ſolute Monarches, and not to be curbed by a<g ref="char:EOLhyphen"/>ny, not to be reſiſted by any: 24. <hi>Hen.</hi> 8. <hi>cap.</hi> 12.25 <hi>Hen.</hi> 8. either at home or abroad; If For<g ref="char:EOLhyphen"/>raigners doe it, they are publicke Enemies; If Domeſtickes doe it, they are Rebels.</p>
+            <p>Q. <hi>But the Subjects of England have ſuppo<g ref="char:EOLhyphen"/>ſed they had ſuch a Power; and upon that ſuppo<g ref="char:EOLhyphen"/>ſition they have entred into a Holy League and Covenant, and bound themſelves by Oath to Re<g ref="char:EOLhyphen"/>forme the King and Kingdome, even by Armes: are they not now bound to doe it?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No; For the Oath is unlawfull, and the end is ungodly.</p>
+            <p>Qu. <hi>How is the Oath unlawfull?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe it is impoſed without Autho<g ref="char:EOLhyphen"/>rity; becauſe it is impoſed againſt Authori<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Qu. <hi>Why? Is it not impoſed by Authority of Parliament?</hi>
+            </p>
+            <pb n="5" facs="tcp:115753:5"/>
+            <p>
+               <hi>Anſ.</hi> No; becauſe the King is abſent; and none hath Power to impoſe an Oath, but he that hath power to draw the ſword, <hi>i. e.</hi> the King. Or admit it as you ſay; Yet becauſe that which you call the Parliament hath impoſed this Oath, hath inforced this Covenant, not only without, but alſo againſt Supreme Autho<g ref="char:EOLhyphen"/>rity, <hi>i. e.</hi> the King; It is unlawfull.</p>
+            <p>Qu. <hi>How is the End ungodly.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe it is to ſhed bloud, becauſe they that take it, ſweare that Aſſertively, the truth whereof they know not, <hi>viz.</hi> the Scots Religi<g ref="char:EOLhyphen"/>on in Doctrine and Diſcipline; and they ſweare that Promiſſorily, which for ought they know is impoſſible, <hi>viz.</hi> the extirpation of Biſhops, and the bringing of all thoſe whom they call Delinquents (who are the beſt and major part of this Kingdome) to condigne puniſhment, <hi>i. e.</hi> to Ruine; and alſo for the extirpation of Popery, whereby they muſt divorce many Husbands and Wives, which is a thing dete<g ref="char:EOLhyphen"/>ſtable both to God and man. And this is plaine perjury.</p>
+            <p>Qu. <hi>But good Sir, for Gods ſake what ſhall we then doe now that we have ſworne?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> What muſt you do? Why you muſt Repent; Repent even for taking this Oath; ſo farre muſt you be from performing this oath,
+<pb n="6" facs="tcp:115753:6"/>or elſe you will add ſinne unto ſinne, the ſinne of Perjury to the ſinne of Rebellion; the ſinne of Murther to the ſinne of Perjury; and the ſinne of Obſtinacie to the ſinne of Murther.</p>
+            <p>Qu. <hi>But Sir, I am bound in Conſcience to performe that which I have ſo ſolemnely vowed, How elſe ſhall my Conſcience be ſatisfyed?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Your Conſcience may be ſatisfyedu<g ref="char:EOLhyphen"/>pon theſe foure irrefragable Maximes of Divi<g ref="char:EOLhyphen"/>nity.</p>
+            <p n="1">1. A Sacrament of Piety muſt not be a Bond of Iniquity. <hi>i. e.</hi> Admit the Oath be an holy Oath; yet becauſe thereby you have ſworne to be Evill, <hi>viz.</hi> to fight againſt the King, which is to be a Rebell, you muſt deſiſt. The Example of <hi>Herod</hi> proves this, <hi>Mat.</hi> 14.7.</p>
+            <p n="2">2. A Sacrament of Piety muſt not be an Im<g ref="char:EOLhyphen"/>pediment of Piety, <hi>i. e.</hi> Admit the oath you have taken be an holy Oath, and the end you have taken it for, be an holy End, <hi>viz. Piety,</hi> ſimply to extirpate Popery, yet becauſe it hinders a greater point of Piety, <hi>viz.</hi> Obedi<g ref="char:EOLhyphen"/>ence and Loyalty to the King, you muſt deſiſt, The example of Saint <hi>Peter</hi> proves this, <hi>John</hi> 13.8. and ſo doth the Example of <hi>Saul.</hi> 1 <hi>Sam.</hi> 15.22.</p>
+            <p n="3">3. Unjuſt Bonds are diſſolved by Righte<g ref="char:EOLhyphen"/>ouſneſſe; <hi>i. e.</hi> Admit you were forced to take
+<pb n="7" facs="tcp:115753:6"/>this Oath for feare of plundering, Impriſon<g ref="char:EOLhyphen"/>ment, and the like; You are yet diſcharged from the performance of it, and bound only to Repentance for it: The Example of <hi>Jepthe</hi> comes neare this, <hi>Judic.</hi> 11.31, 40. and ſo doth that of the Elder ſonne, <hi>Mat.</hi> 21.28. The example of <hi>Saul</hi> in ſlaying the <hi>Gibeonites</hi> proves it at full: 2 <hi>Sam.</hi> 21.1. and ſo doth that univerſally reſolved Caſe. If Theives make me ſweare not to diſcover them upon paine of death; I am yet bound to diſcover them.</p>
+            <p n="4">4. Juſt vowes may be nulled and made voyd by the Superiour, <hi>i.e.</hi> Admit the vow you have made, the Covenant you have entred in<g ref="char:EOLhyphen"/>to be neither of Evill for an evill End, nor of E<g ref="char:EOLhyphen"/>vill to a good End, nor of Good to an evill End, but <hi>De Bono Bene,</hi> of Good for a good End; yet becauſe the conſent of the Superiour the King, is not to it, yea becauſe he hath pub<g ref="char:EOLhyphen"/>liſhed his diſſent againſt it, You are ſo farre from being bound by it, that you are free from it. <hi>Deut.</hi> 30.4.</p>
+            <p>Qu. <hi>Sir, If I have taken it, will you ab<g ref="char:EOLhyphen"/>ſolve me? If I have not taken it, can you di<g ref="char:EOLhyphen"/>rect me how I may take it with certaine Limita<g ref="char:EOLhyphen"/>tions, that ſo I may preſerve both my Loyalty, and my Liberty together with my eſtate?</hi>
+            </p>
+            <pb n="8" facs="tcp:115753:7"/>
+            <p>
+               <hi>Anſ.</hi> Noe, neither; I cannot abſolve yous nor can any abſolve you but God and the King; nor will God abſolve you, untill you have made the King amends for the wrong you have done him by taking this oath; And there<g ref="char:EOLhyphen"/>fore 2<hi rend="sup">ly</hi> I dare not, indeed I dare not nor may, I give you any directions to take this oath by any limitations whatſoever: For it is a reſolv<g ref="char:EOLhyphen"/>ed caſe in Divinity.</p>
+            <q>That every one that ſweareth, muſt ſweare in the ſence of him that gives the oath, and not of himſelfe who takes the oath, be the Judge lawfull or unlawfull.</q>
+            <p>I confeſſe it is a hard caſe you are put unto, either Penury, or Perjury; If you take it not you muſt be plundered, and impriſoned; If you take it, you are Forſworne, and a Rebell; But better looſe the world, then your ſoule.</p>
+            <p>Some men I confeſſe doe mince the matter, and ſay a man may take this oath and not be forſworne, by reaſon of his limitations and reſervations, (which is but a Jeſuiticall tricke) yet even they confeſſe that thus takeing the oath, is taking Gods name in vaine; Which who ſo doeth, you know <hi>God will not hold him guiltleſſe. Exod.</hi> 20.7.</p>
+            <p>Qu. <hi>Sir, I have cauſed you a little to di<g ref="char:EOLhyphen"/>greſſe, but I thanke you for that abundant ſatis<g ref="char:EOLhyphen"/>faction
+<pb n="9" facs="tcp:115753:7"/>you have given me; I returne, and pro<g ref="char:EOLhyphen"/>miſe to trouble you but in a few</hi> Quaeries <hi>more. What thinke you of them that fight for the King?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This I thinke of them; yes and am aſſured of it too, ſo they fight Conſcienti<g ref="char:EOLhyphen"/>ouſly for the Cauſe without by-reſpects, of Riches, or Reward, or Revenge, If they die, they die Martyrs; for they dye for the Lord, <hi>Matt.</hi> 5.10. which is more then to dye in the Lord <hi>Apocal.</hi> 14.13. and are therefore bleſ<g ref="char:EOLhyphen"/>ſed: If they live, they live honeſt men, the honour of their Country, and the glory of their Friends.</p>
+            <p>Qu. <hi>If your affirmative evidence be as good as your negative, you have not only diſheartened me from them at Weſtminſter, but you have alſo heartened me for the King: (and I hope many more with me) How may I affirmatively know that I am lawfully called to be a Souldier?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> By three other notes, 1. If the ground be good, as either to maintaine the true Reli<g ref="char:EOLhyphen"/>gion; Therefore is warre againſt Antichriſt commended, <hi>Apocal.</hi> 17. 16. or elſe to reco<g ref="char:EOLhyphen"/>ver that which the Enemy hath unjuſtly taken away, hence did the Iſraelites ſet upon the Philiſtims 1 <hi>Sam.</hi> 7.14. or elſe to puniſh ſuch as have done publique wrong. Hence David made warre upon the Ammonites a <hi>Sam.</hi> 10.7.</p>
+            <pb n="10" facs="tcp:115753:8"/>
+            <p>Qu. <hi>How do any of theſe Grounds concerne this warre?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> How? marry in each reſpect, 1. Thoſe at <hi>Weſtminſter</hi> have voted downe our ancient Religion, which we have juſtified againſt Pa<g ref="char:EOLhyphen"/>piſts and Puritans, to be the trueſt Religion in the world, both for Doctrine and Diſcipline. 2. They have unjuſtly taken away whatſoe<g ref="char:EOLhyphen"/>ver belonged unto the King, His Magazines, and Forts, His Cuſtomes and Revenues. 3. They have done publicke wrong, not onely in taking away the Churches meanes, but the Church-mens lives alſo; not onely in taking away their and all other the Subjects Proper<g ref="char:EOLhyphen"/>ty, but their Liberty alſo; ſo that the ground of this warre on the Kings part is, To main<g ref="char:EOLhyphen"/>taine and Recover our Religion, our Property, and Liberty.</p>
+            <p>Qu. <hi>What is the ſecond Affirmative Note?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If the End be good: as either to with<g ref="char:EOLhyphen"/>draw Enemies from ſome dangerous Plot; Thus God ſtirred up the Philiſtines to invade Iſrael: to draw <hi>Saul</hi> from purſuing <hi>David,</hi> 1 <hi>Sam.</hi> 23.27. or elſe to weaken the power of profeſſed Enemies; To this end <hi>David</hi> ſet upon the enemies of Iſrael, 2 <hi>Sam.</hi> 8.12. or elſe to ſub<g ref="char:EOLhyphen"/>due Rebellious Subjects that will not be go<g ref="char:EOLhyphen"/>verned by Law. Hence was <hi>Sheba</hi> and his fol<g ref="char:EOLhyphen"/>lowers
+<pb n="11" facs="tcp:115753:8"/>beſeiged by King <hi>David</hi>'s men in <hi>Abell</hi> of <hi>Beth-Maachah,</hi> 2 <hi>Sam.</hi> 20.15. And what is the end of this warre on the Kings part, but that Rebels and other Delinquents may be gover<g ref="char:EOLhyphen"/>ned by law? Let the law take place, and the warre is done.</p>
+            <p>Qu. <hi>What is the third Affirmative note?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If the Execution be right, as 1. That you ſhed no more bloud then Neceſſity enfor<g ref="char:EOLhyphen"/>ces you; If the Enemies yeild you muſt ſpare them: Hence was that charge, If they make thee anſwer of Peace, &amp;c. <hi>Deut.</hi> 20.11. &amp; 2. If you ſlay not ſuch as cannot hurt you, weake women, aged men, young children; Hence is that charge in <hi>Deut.</hi> 20.11. But the women, &amp;c. And 3. If you put not ſuch as you are for<g ref="char:EOLhyphen"/>ced to kill, to cruell torments; For Cruelty pro<g ref="char:EOLhyphen"/>vokes God to anger; witneſſe the <hi>Sirians</hi> and the <hi>Ammonites, Amos</hi> 1.3, 13. (not but that Torments may be uſed in ſome caſes: As 1. To finde out the Truth. Or 2. To requite like for like. Or 3. To puniſh inſupportable wrongs. Or 4. For Breach of Faith.) And ſetting aſide theſe Caſes, let one be named, woman, old man, or child, that hath beene put to death, or any o<g ref="char:EOLhyphen"/>ther, ſouldier or whomſoever, that hath deſi<g ref="char:EOLhyphen"/>red Peace or Quarter, that hath beene refuſed
+<pb n="12" facs="tcp:115753:9"/>on the Kings part; I could name many on the other.</p>
+            <p>Qu. <hi>If ſuch be my End, ſuch my Ground, and ſuch my Execution, may I then lawfully take up Armes and be a Souldier?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, unleſſe the King call you to it. For howſoever the foreſaid Ground, End, and Exe<g ref="char:EOLhyphen"/>cution are required to make warre lawfull, yet you may not be a ſouldier, unleſſe the King call you to it.</p>
+            <p>Qu. <hi>If the King invite me to it, may I then lawfully take up Armes?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, you may, my life and ſoule for yours, you may, whether the Warre be Defen<g ref="char:EOLhyphen"/>five or Offenſive, you may with a ſafe Conſci<g ref="char:EOLhyphen"/>ence, yea and muſt undertake this profeſſion.</p>
+            <p>Qu. <hi>One thing more I beſeech you: Suppoſe the King hath neither ſuch a Ground, nor ſuch End, nor ſuch Execution, may I yet ſafely be a Souldier under Him?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It is an odde and unmannerly ſuppoſi<g ref="char:EOLhyphen"/>tion you make: you would take it very ill if your Neighbour ſhould not believe you upon your word; and why then doe you not beleive the King upon his Proteſtations! On my Con<g ref="char:EOLhyphen"/>ſcience you may, and with my ſoule I beleive it. But admitting the ſuppoſition yet notwith<g ref="char:EOLhyphen"/>ſtanding you are bound to fight for the King
+<pb n="13" facs="tcp:115753:9"/>when He commands you; His unjuſt Com<g ref="char:EOLhyphen"/>mands herein make Himſelfe onely guilty; your ready obedience will approve you In<g ref="char:EOLhyphen"/>nocent: So have all the Caſuiſts that yet I have met with reſolved it: and ſure I am too the Lawes of this Land command it. Looke you elſe upon that Statute of 25 <hi>Edw.</hi> 3. <hi>c.</hi> 3. <hi>Edw.</hi> 2. <hi>Exilium Hugonis de Spenſ.</hi> 5 <hi>Ric.</hi> 2. <hi>c.</hi> 31. <hi>&amp;</hi> 32. <hi>Speed lib.</hi> 9. <hi>c.</hi> 20. <hi>Speed lib.</hi> 9. <hi>c.</hi> 24.</p>
+            <p>Qu. <hi>Sir, I beſeech you now you have made me a Souldier for the King, to furniſh me with one forme of Prayer.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> You have the Prayers of the Church, then which cannot be better; uſe them.</p>
+            <p>Qu. <hi>Sir, I confeſſe it; But they are Pub<g ref="char:EOLhyphen"/>licke Prayers, and ſo I ſhall uſe them: I deſire one for mine owne private Devotion.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I am willing to ſatisfy you; If you cannot better furniſh your ſelfe, uſe this:</p>
+            <div type="prayer">
+               <head>The Souldiers Prayer.</head>
+               <p>
+                  <hi>O</hi> Almighty God who haſt ſtiled thy ſelfe a Man of Warre, and haſt now called me to be a man of warre, I beſeech thee to teach my Hands to warre and my Fingers to fight: give unto me and to every one of my fellow-ſouldiers
+<pb n="14" facs="tcp:115753:10"/>ſtrength, courage, and wiſedome, that we may un<g ref="char:EOLhyphen"/>dermine all their Attempts, and overthrow all their Plots, and overcome all their Gyants that fight againſt thy Truth and thine Annointed: yet even in the heate of our Fury give us Pitty, that we may rather ſpare then ſpoile; and while we gird our ſelves with Armour to reſiſt theſe Enemies of ours, doe Thou put upon us thy Ar<g ref="char:EOLhyphen"/>mour, that we may reſiſt that Enemy of Man<g ref="char:EOLhyphen"/>kinde, and quench all the fiery darts of the De<g ref="char:EOLhyphen"/>vill; Goe thou forth with us againſt them that are come without thee againſt us; Animate our, and abate their Courage; Confound their De<g ref="char:EOLhyphen"/>vices, but Convert their ſoules; And becauſe Death is before our Eyes give us grace to be mindfull of it, and prepared for it; that while we fight againſt them we may alſo fight the good fight againſt all our ghoſtly Enemies, and receive a Crowne of Righteouſneſſe; Take our Bodies into thy Protection, and defend us; Take our ſoules into thy Tuition, and Sanctify us; that if we returne not home we may be received into Heaven, through Jeſus Chriſt, <hi>Amen.</hi>
+               </p>
+               <epigraph>
+                  <q>
+                     <lg>
+                        <l>In whoſe moſt bleſſed name and words we further call upon thee, ſaying,</l>
+                        <pb n="15" facs="tcp:115753:10"/>
+                        <l>OVR Father which art in Heaven.</l>
+                        <l>Hallowed be thy Name.</l>
+                        <l>Thy Kingdome come.</l>
+                        <l>Thy will be done in Earth, as it is in Heaven.</l>
+                        <l>Give us this day our daily bread.</l>
+                        <l>And forgive us our Trespaſſes, as we forgive them that trespaſſe againſt us.</l>
+                        <l>And leade us not into Temptation.</l>
+                        <l>But deliver us from evill.</l>
+                        <l>For thine is the Kingdome, the Power and the Glory, for ever and ever, <hi>Amen.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
